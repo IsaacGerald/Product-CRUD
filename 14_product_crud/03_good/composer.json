@@ -1,0 +1,13 @@
+{
+    "name": "gerah/03_good",
+    "authors": [{
+        "name": "Gerald",
+        "email": "geraldodhiambo47@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
